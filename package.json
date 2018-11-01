@@ -1,0 +1,23 @@
+{
+  "name": "koa_movie",
+  "version": "1.0.0",
+  "description": "koa2 电影预告网站",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangwang55/koa.git"
+  },
+  "author": "XZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangwang55/koa/issues"
+  },
+  "homepage": "https://github.com/yangwang55/koa#readme",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
+}
